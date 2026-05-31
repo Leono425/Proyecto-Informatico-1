@@ -6,7 +6,7 @@ Nombre del docente: Gonzalo
 
 Apellido del docente: Consorti
 
-Correo del alumno: leono.saenz.42@gmail.como
+Correo del alumno: leono.saenz.42@gmail.com
 
 Año y división: 4°1
 
