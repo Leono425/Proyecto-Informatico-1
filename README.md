@@ -51,4 +51,4 @@ generar una función que verifique si un número es múltiplo de otro.
 generar una función que reciba un vector vacío (tamaño 5) y lo llene con números aleatorios del 0 al 100 que sean  múltiplos de 10.
 generar una función que configura los pines como INPUT y OUTPUT
 
-complicaciones: muchas
+complicaciones: hubo consignas de la parte de funciones que no entendi muy bien y me confundia, me olvide entregarlo y se me paso el tiempo
